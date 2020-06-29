@@ -1,2 +1,3 @@
-# Game desenvolvido como parte do desafio da Imersão Gamedev JavaScript
-"# imersaoGameDevOvoLoko" 
+# Game ovoLoko no Deserto
+# Desenvolvido como parte do desafio da Imersão Gamedev JavaScript
+# Alura
